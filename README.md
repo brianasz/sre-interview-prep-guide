@@ -4,7 +4,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 ## Basics
 
-- [ ] Simple: [What happens when you type in ‘www.cnn.com’ in your browser?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser)
+- [x] Simple: [What happens when you type in ‘www.cnn.com’ in your browser?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser)
 - [ ] Detailed: [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when)
 
 ## Linux
@@ -18,7 +18,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 ### Filesystem
 
-- [ ] [Understanding Inodes](https://syedali.net/2015/02/08/understanding-inodes)
+- [x] [Understanding Inodes](https://syedali.net/2015/02/08/understanding-inodes)
 - [ ] [Understand UNIX / Linux Inodes Basics with Examples](https://www.thegeekstuff.com/2012/01/linux-inodes)
 - [ ] [Understanding proc filesystem](https://syedali.net/2013/08/20/understanding-proc-filesystem)
 - [ ] [Common Mount Options](https://syedali.net/2015/01/06/common-mount-options)
